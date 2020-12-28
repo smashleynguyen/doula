@@ -1,2 +1,2 @@
-# doula
-Doula series footnotes
+# Doula series footnotes
+Extra information about Medicaid reimbursement for doulas
