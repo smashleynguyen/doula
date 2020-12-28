@@ -1,0 +1,2 @@
+# doula
+Doula series footnotes
