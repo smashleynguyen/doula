@@ -104,6 +104,7 @@ p {
 .superscript {
   font-size: small;
   font-style: italic;
+  margin-bottom: .3rem;
 }
 
 abbr[title],
@@ -151,7 +152,8 @@ dd {
 }
 
 blockquote {
-  margin: 0 0 1rem;
+  margin: 1rem 2rem 1rem;
+  font-style: italic;
 }
 
 b,
@@ -188,8 +190,14 @@ a {
   color: #168ff4;
   text-decoration: none;
 }
+
 a:hover {
   color: #168ff0;
+}
+
+.bios {
+  color: #000000;
+  text-decoration: bold;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -430,5 +438,6 @@ progress {
 [hidden] {
   display: none !important;
 }
+
 
 /*# sourceMappingURL=bootstrap-reboot.css.map */
